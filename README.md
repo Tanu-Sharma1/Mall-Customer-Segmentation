@@ -3,8 +3,8 @@
 ## Intern Details
 
 - Full Name: Tanu Sharma
-- Intern ID: YOUR_INTERN_ID
-- Duration: 4 Weeks
+- Intern ID: CITS2210
+- Duration: 6 Weeks
 - Project Name: Mall Customer Segmentation using K-Means Clustering
 
 ---
